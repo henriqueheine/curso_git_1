@@ -1,1 +1,3 @@
-<h1 style="color:red;"> Cabeçalho do estilo em pasta errada </h1>
+h1 {
+    color: rebeccapurple;
+}
